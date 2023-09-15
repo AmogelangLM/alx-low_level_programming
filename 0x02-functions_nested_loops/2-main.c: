@@ -1,0 +1,5 @@
+n.c:8:5: error: implicit declaration of function ‘print_alphabet_x10’ [-Werror=implicit-function-declaration]
+    8 |     print_alphabet_x10();
+      |     ^~~~~~~~~~~~~~~~~~
+cc1: all warnings being treated as errors
+root@a071cd5f9232:~/alx-low_level_programming/0x02-functions_nested_loops# 
